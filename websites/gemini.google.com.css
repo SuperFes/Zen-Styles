@@ -78,3 +78,14 @@ div:has(input-area-v2) button {
   justify-content: center !important;
   align-items: center !important;
 }
+
+/* disable animated background */
+.nl-blob,
+.gradient-strip {
+  animation: none !important;
+  display: none !important;
+}
+
+.lm-canvas-styling canvas {
+  display: none !important;
+}
