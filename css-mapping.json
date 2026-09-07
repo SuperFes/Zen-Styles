@@ -3,6 +3,5 @@
   "example.com.css": ["alternativeto.net", "kbin.earth", "mp.weixin.qq.com", "-cifraclub.com.br", "support.atlassian.com", "wearechecking.online"],
   "pling.com.css": ["store.kde.org", "gnome-look.org", "appimagehub.com", "linux-apps.com"],
   "gitlab.com.css": ["gitlab.freedesktop.org"],
-  "+instructure.com.css": ["classroom.ucscout.org"],
-  "outlook.office.com.css": ["outlook.cloud.microsoft"]
+  "+instructure.com.css": ["classroom.ucscout.org"]
 }

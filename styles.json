@@ -2309,6 +2309,9 @@
       "otomoto-transparency": "html, body, nav, header, .app-root, #pass-sidebar, #main, #content, section, [data-sentry-element=\"PageBody\"] {\n  background-color: transparent !important;\n  background: none !important;\n  border: none !important;\n  box-shadow: none !important;\n  transition:\n    background-color 0.5s ease-in-out,\n    background 0.5s ease-in-out,\n    border 0.5s ease-in-out,\n    box-shadow 0.5s ease-in-out !important;\n}",
       "otomoto-darkreader": ":root {\n  --darkreader-background-ffffff: transparent !important;\n}"
     },
+    "outlook.cloud.microsoft.css": {
+      "outlook-transparency": ":root, .dark {\n  --neutralSecondarySurface: transparent !important;\n  --colorNeutralBackground1: transparent !important;\n  --headerTextIcons: white !important;\n}\nhtml, body, nav, header, #appContainer, #O365_NavHeader, [aria-label=\"App launcher\"], #owaBranding_container > div, #LeftRail, .gU1Tf, [aria-label=\"Hide navigation pane\"], .root-171, .pivot-header-root > button, .QIl4y, .YYA9V, [data-app-section=\"MessageList\"], .bkYAr, #ReadingPaneContainerId, #OwaTitleBar button, #O365_HeaderRightRegion, .IjQyD, .customScrollBar, .X4w2q {\n  background-color: transparent !important;\n  background: transparent !important;\n  border: none !important;\n  box-shadow: none !important;\n  transition:\n    background-color 0.5s ease-in-out,\n    background 0.5s ease-in-out,\n    border 0.5s ease-in-out,\n    box-shadow 0.5s ease-in-out !important;\n}\n.fui-Button {\n  background-color: transparent !important;\n}\n.o365sx-button {\n  transition: none !important;\n  background-color: transparent !important;\n}\n.fui-MenuPopover {\n  background-color: light-dark(white, #292929) !important;\n}\n.o365sx-appBrandLink {\n  color: white !important;\n}"
+    },
     "outlook.live.com.css": {
       "outlook-transparency": "html, body, nav, header, #appContainer, #O365_NavHeader, [aria-label=\"App launcher\"], #owaBranding_container > div, #LeftRail, .gU1Tf, [aria-label=\"Hide navigation pane\"], .root-171, .pivot-header-root > button, .QIl4y, .YYA9V, [data-app-section=\"MessageList\"], .bkYAr, #ReadingPaneContainerId, #OwaTitleBar button, #O365_HeaderRightRegion, .IjQyD, .customScrollBar, .X4w2q {\n  background-color: transparent !important;\n  background: none !important;\n  border: none !important;\n  box-shadow: none !important;\n  transition:\n    background-color 0.5s ease-in-out,\n    background 0.5s ease-in-out,\n    border 0.5s ease-in-out,\n    box-shadow 0.5s ease-in-out !important;\n}"
     },
@@ -3381,9 +3384,6 @@
     ],
     "+instructure.com.css": [
       "classroom.ucscout.org"
-    ],
-    "outlook.office.com.css": [
-      "outlook.cloud.microsoft"
     ]
   }
 }
