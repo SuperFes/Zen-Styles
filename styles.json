@@ -3381,6 +3381,9 @@
     ],
     "+instructure.com.css": [
       "classroom.ucscout.org"
+    ],
+    "outlook.office.com": [
+      "outlook.cloud.microsoft"
     ]
   }
 }
